@@ -94,7 +94,7 @@ Interactive docs available at **http://localhost:8000/docs**
 | POST | `/assets/{id}/inspections/` | Log a new inspection |
 | GET | `/dashboard/stats` | Aggregated stats for the dashboard |
 
-### Example — Create an asset
+### Example: Create an asset
 
 ```bash
 curl -X POST http://localhost:8000/assets/ \
@@ -108,7 +108,7 @@ curl -X POST http://localhost:8000/assets/ \
   }'
 ```
 
-### Example — Log an inspection
+### Example: Log an inspection
 
 ```bash
 curl -X POST http://localhost:8000/assets/1/inspections/ \
