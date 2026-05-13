@@ -1,4 +1,4 @@
-# InfraWatch — Infrastructure Monitoring Dashboard
+# InfraWatch: Infrastructure Monitoring Dashboard
 
 A full-stack web application for tracking and visualizing infrastructure assets, condition ratings, and maintenance history.
 
